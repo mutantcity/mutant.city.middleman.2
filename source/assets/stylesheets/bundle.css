@@ -8,7 +8,7 @@ html {
   padding-top: 75px;
 }
 
-/* Nav bar..Headroom */
+/* Nav bar with Headroom.js  */
 
 .headroom {
   position: fixed;
