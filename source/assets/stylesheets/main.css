@@ -1,0 +1,30 @@
+body {
+  border: solid 5px red;
+  font-family: 'Raleway', sans-serif;
+}
+
+html {
+  height: 200%;
+  padding-top: 75px;
+}
+
+/* Nav bar..Headroom */
+
+.headroom {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  -webkit-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
+}
+
+.headroom--unpinned {
+  top: -100px;
+}
+
+.headroom--pinned {
+  top: 0;
+}
+
+/* end nav bar */
