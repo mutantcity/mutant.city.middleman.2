@@ -10,6 +10,10 @@ html {
 
 /* Nav bar with Headroom.js  */
 
+.navbar{
+  text-align: center;
+}
+
 .headroom {
   position: fixed;
   top: 0;

@@ -1,0 +1,6 @@
+<h2><%= link_to article.title, article %>
+<span><%= article.date.strftime('%b %e') %></span></h2>
+<!-- use article.summary(250) if you have Nokogiri available to show just
+     the first 250 characters or article.body to show full-->
+<%= image_tag '1.jpg' %>
+<%= article.summary(250) %>
