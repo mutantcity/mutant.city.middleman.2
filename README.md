@@ -10,3 +10,11 @@ Middleman version of mutant.city
 3. Run the middleman watcher:  ``` middleman ```
 4. Run the webpack watcher: ``` webpack-cli ```
   * note: the webpack compiles main.js and main.css to bundle.js and bundle.css
+
+
+
+### Notes
+* use article.summary(250) if you have Nokogiri available to show just the first 250 characters or article.body to show full
+
+### To do
+* Only let Nokogiri show the (more...) if there is actually more

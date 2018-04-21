@@ -1,6 +1,20 @@
-<h2><%= link_to article.title, article %>
-<span><%= article.date.strftime('%b %e') %></span></h2>
-<!-- use article.summary(250) if you have Nokogiri available to show just
-     the first 250 characters or article.body to show full-->
-<%= image_tag '1.jpg' %>
-<%= article.summary(250) %>
+<article class="row" style="padding: 2.5% 0 2.5% 0; border-bottom: solid #eee 4px">
+  <div class="col-md-2">
+    <% link_to article do %>
+      <img src="<%= article.data.image %>" class="img-fluid rounded img-0-z-index">
+    <% end %>
+  </div>
+
+  <div class="col-md-10">
+    <%= link_to article.title, article %><br/>
+    <small>
+      <span><%= article.date.strftime('%b %e') %> by
+        <%= link_to article.data.author, "#" %>
+    </small>
+    <hr/>
+      <%= article.summary(500) %>
+      <%= link_to "(more...)", article %>
+  </div>
+
+
+</article>

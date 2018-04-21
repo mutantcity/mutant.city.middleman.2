@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+  <%= partial "partials/head" %>
+  <body>
+    <div class="container-fluid">
+      <%= partial "partials/navbar" %>
+      <div id="main" role="main">
+
+        <article class="row" style="padding: 2.5% 0 2.5% 0; border-bottom: solid #eee 4px">
+          <div class="col-md-2">
+            <% link_to current_page.data.image do %>
+              <img src="<%= current_page.data.image %>" class="img-fluid rounded">
+            <% end %>
+          </div>
+
+          <div class="col-md-10">
+            <%= current_page.data.title %>
+            <br/>
+            <small>
+              <span><%= current_page.data.date %>
+                by
+                <%= link_to current_page.data.author, "#" %>
+              </small>
+              <hr/>
+              <%= yield %>
+            </div>
+          </article>
+
+        </div>
+      </div>
+      <%= javascript_include_tag 'bundle.js' %>
+    </body>
+  </html>

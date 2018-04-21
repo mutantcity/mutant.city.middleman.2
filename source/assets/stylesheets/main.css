@@ -1,11 +1,16 @@
 body {
-  border: solid 5px red;
+  border: solid 0px red;
   font-family: 'Raleway', sans-serif;
 }
 
 html {
   height: 200%;
   padding-top: 75px;
+}
+
+.container-fluid {
+   padding-left: 260px;
+   padding-right: 260px;
 }
 
 /* Nav bar with Headroom.js  */
@@ -21,6 +26,7 @@ html {
   right: 0;
   -webkit-transition: all .5s ease-in-out;
   transition: all .5s ease-in-out;
+  z-index: 9998;
 }
 
 .headroom--unpinned {

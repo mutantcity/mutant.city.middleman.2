@@ -14,7 +14,7 @@ var headroom = new Headroom(myElement);
 // initialize the library
 headroom.init({
   tolerance: 5,
-  offset: 305,
+  offset: 305
 });
 
 $(function () {
