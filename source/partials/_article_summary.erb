@@ -1,11 +1,11 @@
 <article class="row" style="padding: 2.5% 0 2.5% 0; border-bottom: solid #eee 4px">
-  <div class="col-md-2">
+  <div class="col-md-3">
     <% link_to article do %>
       <img src="<%= article.data.image %>" class="img-fluid rounded img-0-z-index">
     <% end %>
   </div>
 
-  <div class="col-md-10">
+  <div class="col-md-9">
     <%= link_to article.title, article %><br/>
     <small>
       <span><%= article.date.strftime('%b %e') %> by

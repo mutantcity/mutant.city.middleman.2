@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da5f1e1-a859-45dc-b548-bd4480ca2a5f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/layouts/layout.erb" afterPath="$PROJECT_DIR$/source/layouts/layout.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/layouts/page_layout.erb" afterPath="$PROJECT_DIR$/source/layouts/page_layout.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/partials/_head.erb" afterPath="$PROJECT_DIR$/source/partials/_head.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/layouts/single_article_layout.erb" afterPath="$PROJECT_DIR$/source/layouts/single_article_layout.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/partials/_article_summary.erb" afterPath="$PROJECT_DIR$/source/partials/_article_summary.erb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,41 +41,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="single_article_layout.erb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="single_article_layout.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/layouts/single_article_layout.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_head.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/partials/_head.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/layouts/layout.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page_layout.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="page_layout.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/layouts/page_layout.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aboot.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/aboot.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -100,10 +92,12 @@
         <option value="$PROJECT_DIR$/source/posts/2018-04-19-code-quality-mysticism-or-science-or-both.html.markdown" />
         <option value="$PROJECT_DIR$/source/partials/_disqus.erb" />
         <option value="$PROJECT_DIR$/source/posts/2018-04-19-hello-world.html.markdown" />
-        <option value="$PROJECT_DIR$/source/layouts/single_article_layout.erb" />
-        <option value="$PROJECT_DIR$/source/layouts/layout.erb" />
         <option value="$PROJECT_DIR$/source/partials/_head.erb" />
+        <option value="$PROJECT_DIR$/source/aboot.html.erb" />
         <option value="$PROJECT_DIR$/source/layouts/page_layout.erb" />
+        <option value="$PROJECT_DIR$/source/layouts/layout.erb" />
+        <option value="$PROJECT_DIR$/source/partials/_article_summary.erb" />
+        <option value="$PROJECT_DIR$/source/layouts/single_article_layout.erb" />
       </list>
     </option>
   </component>
@@ -294,12 +288,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524940794575</updated>
-      <workItem from="1524940796123" duration="1407000" />
+      <workItem from="1524940796123" duration="1977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1407000" />
+    <option name="totallyTimeSpent" value="1977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -361,18 +355,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/layouts/layout.erb">
+    <entry file="file://$PROJECT_DIR$/source/aboot.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/layouts/single_article_layout.erb">
+    <entry file="file://$PROJECT_DIR$/source/layouts/page_layout.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/layouts/layout.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/partials/_article_summary.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -385,10 +403,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/layouts/page_layout.erb">
+    <entry file="file://$PROJECT_DIR$/source/layouts/single_article_layout.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding />
         </state>
       </provider>

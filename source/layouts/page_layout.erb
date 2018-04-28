@@ -4,12 +4,12 @@
   <body>
     <div class="container-fluid">
       <%= partial "partials/navbar" %>
-      <article>
-        <header class="row" style= "margin: 2.5% 0 2.5% 0; border-bottom: solid #eee 4px">
+      <header class="row" style= "margin: 2.5% 0 2.5% 0; border-bottom: solid #eee 4px">
           <div class="col-md-10 col-md-offset-1">
-            Aboot
+            <%= current_page.data.title %>
           </div>
-        </header>
+      </header>
+      <article>
         <section class="row">
           <div class="col-md-3 col-md-offset-1">
             <% link_to current_page.data.image do %>
