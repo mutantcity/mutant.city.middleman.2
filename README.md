@@ -18,3 +18,5 @@ Middleman version of mutant.city
 
 ### To do
 * Only let Nokogiri show the (more...) if there is actually more
+* enable anonymous comments/clean up that disqus clutter
+* QA on mobile
