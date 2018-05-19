@@ -2,15 +2,17 @@
 <html>
   <%= partial "partials/head" %>
   <body>
-    <div class="container-fluid">
+    <div class="container">
       <%= partial "partials/navbar" %>
       <div id="main" role="main">
 
         <article class="row" style="padding: 2.5% 0 2.5% 0; border-bottom: solid #eee 4px">
           <div class="col-md-3">
+            <div class="tape">
             <% link_to current_page.data.image do %>
-              <img src="<%= current_page.data.image %>" class="img-fluid rounded">
+              <img src="<%= current_page.data.image %>" class="img-fluid rounded blog-img-border">
             <% end %>
+          </div>
           </div>
 
           <div class="col-md-9">

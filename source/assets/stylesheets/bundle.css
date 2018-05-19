@@ -38,6 +38,41 @@ html {
 }
 
 /* end nav bar */
+
+.blog-img-border{
+  border: solid 1px #eee;
+  -webkit-box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
+  -moz-box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
+  box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
+}
+/*
+  The tape class adds a piece of tape to the item it contains.
+*/
+
+.tape{
+  display:inline-block;
+  position:relative;
+}
+
+.tape::before {
+  content: "";
+  position:absolute;
+  width: 40%;
+  height: 10%;
+  top: -5%;
+  left: 30%;
+  background: rgba(255,255,255,0.5);
+  -webkit-box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
+  -moz-box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
+  box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
+}
+
+
+.shadowify{
+  -webkit-box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
+  -moz-box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
+  box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
+}
 /*!
  * Bootstrap v4.1.0 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors

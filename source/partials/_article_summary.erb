@@ -1,8 +1,10 @@
 <article class="row" style="padding: 2.5% 0 2.5% 0; border-bottom: solid #eee 4px">
   <div class="col-md-3">
     <% link_to article do %>
-      <img src="<%= article.data.image %>" class="img-fluid rounded img-0-z-index">
+    <div class="tape">
+      <img src="<%= article.data.image %>" class="img-fluid rounded img-0-z-index blog-img-border">
     <% end %>
+  </div>
   </div>
 
   <div class="col-md-9">
