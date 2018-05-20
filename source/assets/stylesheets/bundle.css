@@ -107,6 +107,19 @@ html {
   Scroll Magic
 */
 
+.about-mutant-dot-city {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-is {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .sc-bcg {
   position: absolute;
   top: -5px;
