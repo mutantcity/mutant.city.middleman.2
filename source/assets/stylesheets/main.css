@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Hussar3dFour';
+  src: url("../fonts/Hussar3DFour.ttf");
+}
+
 body {
   border: solid 0px red;
   font-family: 'Raleway', sans-serif;
@@ -9,13 +14,15 @@ html {
 }
 
 .container-fluid {
-   padding-left: 260px;
-   padding-right: 260px;
+  padding-left: 260px;
+  padding-right: 260px;
 }
 
-/* Nav bar with Headroom.js  */
+/*
+  Nav bar with Headroom.js
+*/
 
-.navbar{
+.navbar {
   text-align: center;
 }
 
@@ -37,39 +44,112 @@ html {
   top: 0;
 }
 
-/* end nav bar */
-
-.blog-img-border{
-  border: solid 1px #eee;
-  -webkit-box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
-  -moz-box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
-  box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
+.large-3d-font {
+  font-family: Hussar3dFour !important;
+  font-size: 100px !important;
+  opacity: 1;
 }
+
+.city-background {
+  background-image: url("../images/cartoon-city.jpg");
+  border: solid 1px black;
+}
+
+.city-background::after {
+  content: url('../images/cartoon-city.jpg');
+  visibility: hidden;
+}
+
+/*
+  end nav bar
+*/
+
+/*
+  Add shadows to the images
+*/
+
+.blog-img-border {
+  border: solid 1px #eee;
+  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
+}
+
 /*
   The tape class adds a piece of tape to the item it contains.
 */
 
-.tape{
-  display:inline-block;
-  position:relative;
+.tape {
+  display: inline-block;
+  position: relative;
 }
 
 .tape::before {
   content: "";
-  position:absolute;
+  position: absolute;
   width: 40%;
   height: 10%;
   top: -5%;
   left: 30%;
-  background: rgba(255,255,255,0.5);
-  -webkit-box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
-  -moz-box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
-  box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
+  background: rgba(255, 255, 255, 0.5);
+  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
 }
 
-
-.shadowify{
-  -webkit-box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
-  -moz-box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
-  box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
+.shadowify {
+  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
 }
+
+/*
+  Scroll Magic
+*/
+
+.sc-bcg {
+  position: absolute;
+  top: -5px;
+  width: 100%;
+  height: 100%; //z-index: 1;
+  border: solid 0px red;
+  background: url("../images/cartoon-city.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#sc-slide01 {
+  //background: url("../images/cartoon-city.jpg") no-repeat center center;
+  //background-size: cover;
+}
+
+/* .sc-slide .sc-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+    text-align: center;
+}
+
+.sc-intro {
+    background: #305a5b;
+}
+
+.sc-parallax {
+    background: url("../images/cartoon-city.jpg") 50% 0;
+}
+
+.sc-slidein {
+    background: #5b3030;
+}
+
+.sc-slidein2 {
+    background: #304b5b;
+}
+
+.sc-slidein2 .sc-row {
+    justify-content: space-around;
+} */

@@ -25,3 +25,42 @@ headroom.init({
     tolerance: 5,
     offset: 305
 });
+
+/**  ScrollMagic/GSAP  */
+$(function () {
+
+
+var  controller = new ScrollMagic.Controller();
+
+
+// Parallax background
+new ScrollMagic.Scene({
+        triggerElement: "#sc-container",
+        triggerHook: "onEnter",
+    })
+    .duration('400%')
+    .setTween("#sc-parallax", {
+        backgroundPosition: "0% 800%",
+        ease: Linear.easeNone
+    })
+    .addIndicators() // for debugging purposes
+    .addTo(controller);
+
+//
+// new ScrollMagic.Scene({
+//         triggerElement: "#sc-slidein",
+//         triggerHook: "onLeave",
+//     })
+//     .setPin("#sc-slidein")
+//     //.addIndicators() // add indicators (requires plugin)
+//     .addTo(controller);
+//
+// new ScrollMagic.Scene({
+//         triggerElement: "#sc-slidein2",
+//         triggerHook: "onLeave",
+//     })
+//     .setPin("#sc-slidein2")
+//     //.addIndicators() // add indicators (requires plugin)
+//     .addTo(controller);
+
+});
