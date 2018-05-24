@@ -17,6 +17,10 @@ html {
   padding-left: 260px;
   padding-right: 260px;
 }
+.main-body{
+  padding-left: 50px;
+  padding-right: 50px;
+}
 
 /*
   Nav bar with Headroom.js

@@ -2,13 +2,10 @@
 <html>
   <%= partial "partials/head" %>
   <body>
-
-    <%= partial "partials/navbar" %>
-
-    <div class="main-body">
+    <div>
+      <%= partial "partials/navbar" %>
       <%= yield %>
     </div>
-
     <%= partial 'partials/javascript' %>
   </body>
 </html>
