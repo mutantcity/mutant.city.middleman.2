@@ -1,5 +1,5 @@
 ---
-title: All you need is Serverless
+title: Imagine
 date: 2018-05-22 02:55 UTC
 tags: example
 image: https://drive.google.com/uc?id=1dAkchVnYztOL6-sy8FEJfnQhc-WMsWME
@@ -17,4 +17,4 @@ Living life in peace
 Best article I've read in a long while about the future of web dev.  
 They hit on the key points: serverless frameworks, JWT, Vue.js, hosting your front-end in S3.  
 No scaling issues, no complicated deployments, nothing but love.  
-And that, my peeps, is truly all you need. (and also money to pay the bills) 
+And that, my peeps, is truly all you need. (and also money to pay the bills)
