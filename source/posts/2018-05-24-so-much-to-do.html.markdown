@@ -17,7 +17,7 @@ Things to do are:
 2. The body is like 200% for testing scrollmagic.  Fix that.   
 3. Image optimization. The images take a hot second to load.  
 4. Categories and better blog organization  
-5. The amount of `programmer in a thong content` is currently unacceptable.  
+5. The amount of `animals being silly` content is currently unacceptable.  
 6. Front end task runner organization. I'm using webpack and just dumping all the Js/Css into single bundles.  I could do better. I will do better. I am the task runner.  
 7. Figure out how to sync a static site posts to other social media platforms.  
 8. Remove the start, trigger, end from the right side that is being used to test scrollmagic.  
