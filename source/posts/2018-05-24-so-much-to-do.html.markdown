@@ -8,15 +8,16 @@ author: Nick
 
 So this site is a permanent state of `in progress`.   
 I know theres some blemishes here and there, and some basic things needed to be done for presentation.  
- But since this is a spare time project, I just want to have fun with it while not feeling pressure to `do the needful` which we do every day at work. So until I have a bunch of free time this site will be a bit of a work in progress.
- That being said here sort of the summary of what needs to happen around here.  
+But since this is a spare time project, I just want to have fun with it while not feeling pressure to `do the needful` which we do every day at work.   
+ So until I have a bunch of free time this site will be a bit of a work in progress.  
+ That being said here sort of the summary of what needs to happen around here.    
 
 Things to do are:  
 1. Remove the (more...) link if theres not actually more.  
 2. The body is like 200% for testing scrollmagic.  Fix that.   
 3. Image optimization. The images take a hot second to load.  
 4. Categories and better blog organization  
-5. The amount of `programmer in a thong content` is currently unacceptable.
+5. The amount of `programmer in a thong content` is currently unacceptable.  
 6. Front end task runner organization. I'm using webpack and just dumping all the Js/Css into single bundles.  I could do better. I will do better. I am the task runner.  
 7. Figure out how to sync a static site posts to other social media platforms.  
 8. Remove the start, trigger, end from the right side that is being used to test scrollmagic.  
