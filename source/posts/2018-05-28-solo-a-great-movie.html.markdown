@@ -28,4 +28,4 @@ Also, the Easter Eggs are amazing for a hard core fan.  Keep an eye out for them
   Overall I think this movie was an great success and really hope the financial woes aren't going to cause issues with making more Solo movies. 
   
   Why don't they just take a page out of Hans play book?  
-  It only cost 200 million if you round down.
+  It only cost 200 million to make the movie if you round down.
