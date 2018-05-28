@@ -1,42 +1,28 @@
 ---
-
-title: solo a great movie
+title: New Han Solo
 date: 2018-05-28 18:17 UTC
-tags: 
-published: false
+tags: example
+image: https://drive.google.com/uc?id=1POq96FNkNaQazmILD2zOFkUAToi5xypF
+author: Nick
 ---
-*"Ive got a really good feeling about this."*  - Han Solo
 
-My primary concern with the Disney run Star Wars is the Marvelization of the Star Wars franchise which has disturbed me about the recent Star Wars movies. Emphasis on large, undecipherable action scenes,  plots centering around large magic items or dubious goals that the audience has to dumbly accept as important,  incredibly oversimplistic motivations for characters who wield massive power. I know it sells because I think most people like these kinds of  movies as a break from their lives but that's not what made the original Star Wars so special.  It was the depth of the universe, the hero's journey, the philosophy of the dark/light balance, the mythos surrounding the characters and world, love of family and tribe(and species). Not just characters with superpowers that have to fight bigger characters with superpowers to stop certain destruction. In Marvel the characters and plot serve the action in the original Star Wars the action served the characters and plot.
+*"Ive got a good feeling about this."*  - new Han Solo
 
-  This movie could have gone bad in so many numerous ways.  Formalizing the mythos of Han Solo into hard canon and codifying the imaginations of legions of fans onto the big screen is a very dicey proposition, walking a tightrope over a river of crocodiles, except instead of a crocodile demise, a billion dollar franchise is at stake as well as the respect of a notoriously rabid fan base.
-  Han Solo is as sacred of a character in the Star Wars franchise as any,  with all the surrounding mythos that fans have grown up idealizing for decades. (*Where did those dice come from?* )  Everything has to go just *perfectly*. Therefore, I admire the courage and gusto required to make this movie.  
-  That being said, I really, truly, enjoyed the movie itself. Summarizing a rich history into two hours isn't easy and was done outstandingly as far as I'm concerned.  The things a Star Wars movie has to capture are the vastness of the universe, exotic aliens and cultures, cool futuristic technology, legendary characters, and a chaotic unruly existence. From the mines of Corellia to the sand  this movie captured all of that well. 
-  
-  
-  
-  
-  
-  
-  
-  Not gre
-  
-  
-  
-  I tho
-  The swaggering, snarky, charming, ladies man, tough guy with a heart of gold that Harrison Ford portays so perfectly that its almost unimaginable it could ever have been without him. It's like Rocky without Stallone or Lector without Hopkins...characters so enmeshed with the actual actor, that portraying the character is equal parts portraying the actor themselves.
-  
-  
-  
-  and a billion dollar franchise at stake.
-  
-  Just a slight imperfection in any of the well known characters, flimsy screenwriting,  unsatisfactory amounts of swagger and snark  and charm from the lead himself.
-  
-  And to be hon
-
- could have caused huge fan backlash, further hastening the decline of the Star Wars franchise. 
+My primary concern with the Disney run Star Wars is the Marvelization of the Star Wars franchise. This has disturbed me about the recent Star Wars movies. Emphasis on large, undecipherable action scenes,  plots centering around large dubious catastrophic goals that the audience has to dumbly accept as making sense,  incredibly oversimplistic motivations for characters who wield massive power. I know it sells because I think most people like these kinds of  movies as a break from their lives but that's not what made the original Star Wars so special.  It was the depth of the universe, the hero's journey, the philosophy of the dark/light balance, the mythos surrounding the characters and world, protection/love of family and tribe(and species). It's not just characters with superpowers that have to fight bigger characters with bigger superpowers. In Marvel the characters and plot serve the action in the original Star Wars movies the action served the characters and plot.
 
 
-The Marvelization of Star Wars does continue 
+This movie could have gone bad in so many numerous ways.  Formalizing the mythos of Han Solo into hard canon and codifying the imaginations of legions of fans onto the big screen is a very dicey proposition, walking a tightrope over a river of crocodiles, except instead of a crocodiles to worry about, a billion dollar franchise is at stake as well as the respect of a notoriously devoted fan base. Han Solo is as sacred of a character in the Star Wars franchise as any,  and his surrounding mythos that fans have grown up idealizing for decades. (*Where did those dice come from?* )  requires the movie to go almost *perfectly*. Not too heavy handed or too light handed. Therefore, I admire the courage and gusto required to make this movie.  
 
+  I really wanted to dislike this movie.  I was on the edge of my seat waiting for the main actor to do or say something to anger me and bring out my Star Wars snobbery and say "That's not Han Solo". I really wanted the plot to be cheesy enough to make me discard this entire movie as an uninspired money grab. That being said, I really, truly, enjoyed the movie. A gritty movie about the life of a mercenary set against the backdrop of the Star Wars universe.  No Jedi briging balance to the galaxy, no huge starfleet battles, no galaxy destroying space stations.  Just a guy with a blaster making his way through a huge fascinating sci-fi universe. You could remove all associations with Star Wars and it would still be a good movie. I will absolutely watch it again and happily accept the movie and the new Han Solo into Star Wars canon.
 
+  The key things a Star Wars movie has to capture are the vastness of the universe, exotic aliens and cultures, cool futuristic technology, legendary characters, and a chaotic unruly existence. From the mines of Corellia to the sands of Savereen this movie captured all of that well. The character development was solid, you can actually feel Ehrenreich's Han Solo grow in swagger and confidence as the movie progresses, Clarke's Qi'ra gives you a subtle sense of latent reluctance and sinister intent, and Harrelsons Beckett is the perfect mercenary/mentor who never once risks crossing the line into overly-sentimental father figure territory.  As far as production goes, the costumes are outstanding, the Enfys Nest mercenaries have some fantastic blend of cyberpunk and tribal gear, Dryden Voss presents as terrible and intimidating with his unexplained facial scars, and Solo and crew are costumed perfectly in futuristic working man garb. The special effects are understated with neither the Marvel headponding explosion per second rhythm or overt abuse such that it takes you out of the immersion by appearing cartoony. A laser is a laser, a worm creature is a worm creature, and my holographic  djarkik getting smashed by an angry wookie is well just that. We seemed to have learned our lesson with Jar Jar.
+
+Also, the Easter Eggs are amazing for a hard core fan.  Keep an eye out for them.  I think this movie demonstrates strongly that Han is definitely the kind of guy who would shoot first.
+
+  That being said I had some minor qualms.
+  Some of the plot devices are a little farfetched.  A tiny human made starship escaping a massive interstellar force is a lot more Michael Bay than Stephen Hawking but the Narrative license isn't overly abused, and it's still pretty fun to watch the Kessel Run made in under 12 parsecs. Also,  mercenaries in the Disney Star World universe are remarkably novelistic and romantic compared to what human beings are capable of. Comparing Disney Star Wars villians to the Los Zetas cartel is a profound contrast.
+  Also, there isn't a huge amount of depth to the characters, especially Han. No major quirks, issues, or flaws. The original Han had a deep cynism toward almost everything, the force, the rebellion, the princess, etc. (*"I've got a bad feeling about this!"*) He was all about the credits. And I felt he had deep insecurities that drove him underlying the bravado. Maybe they didn't have enough time to flesh out character fully or future movies will expand on that, but this new Han seemed to simply be an charming confident happy go lucky kid with some charm, who winds up on top. (*I'm going to be the best pilot in the galaxy!*)
+
+  Critical to the movies success was portraying Han in a believable way. Portraying the swaggering, snarky, charming, cynical, ladies man, mercenary with a heart of gold that Harrison Ford brought to life is an nearly impossible task. Like Rocky and Stallone or Lector and Hopkins, Han Solo is a character so enmeshed with the actual actors energy, that portraying the role is equal parts portraying the actor themselves. I feel Ehrenreich's did a better job than just about anyone could have at this.  He makes an extremely servicable Han Solo and captures the personality traits mentioned above as well as possible given the screen writing. In future movies I would like to see a little more cynicism and subtle self doubt in the dialogue underlying the bravado as well as some of Han's less admirable traits like mocking Lea.  (*I'm not in it for you, princess.*)
+
+  Overall I think this movie was an great success and really hope the financial woes aren't going to cause issues with making more Solo movies. Why don't they just take a lesson out of Hans play book?  It only cost 200 million to make the movie if you round down.
