@@ -25,4 +25,7 @@ Also, the Easter Eggs are amazing for a hard core fan.  Keep an eye out for them
 
   Critical to the movies success was portraying Han in a believable way. Portraying the swaggering, snarky, charming, cynical, ladies man, mercenary with a heart of gold that Harrison Ford brought to life is an nearly impossible task. Like Rocky and Stallone or Lector and Hopkins, Han Solo is a character so enmeshed with the actual actors energy, that portraying the role is equal parts portraying the actor themselves. I feel Ehrenreich's did a better job than just about anyone could have at this.  He makes an extremely servicable Han Solo and captures the personality traits mentioned above as well as possible given the screen writing. In future movies I would like to see a little more cynicism and a littl emore subtle self doubt in the dialogue underlying the bravado as well as some of Han's less admirable traits like mocking Lea.  (*I'm not in it for you, princess.*)
 
-  Overall I think this movie was an great success and really hope the financial woes aren't going to cause issues with making more Solo movies. Why don't they just take a lesson out of Hans play book?  It only cost 200 million to make the movie if you round down.
+  Overall I think this movie was an great success and really hope the financial woes aren't going to cause issues with making more Solo movies. 
+  
+  Why don't they just take a page out of Hans play book?  
+  It only cost 200 million if you round down.
