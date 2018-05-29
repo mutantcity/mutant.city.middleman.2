@@ -8,7 +8,7 @@ author: Nick
 
 So this site is a permanent state of `in progress`.   
 I know theres some blemishes here and there, and some basic things needed to be done for presentation.  
-But since this is a spare time project, I just want to have fun with it while not feeling pressure to `do the needful` which we do every day at work.   
+But since this is a spare time project, I just want to have fun with it while not feeling pressure to `do the needful`.   
  So until I have a bunch of free time this site will be a bit of a work in progress.  
  That being said here sort of the summary of what needs to happen around here.    
 

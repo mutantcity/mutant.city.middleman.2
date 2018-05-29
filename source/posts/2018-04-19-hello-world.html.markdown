@@ -7,5 +7,4 @@ author: Nick
 ---
 
 
-
 This is my actual first real blog post.  The goal of this blog is just to connect with people and to show off anything neat I discover or make. So into the future!

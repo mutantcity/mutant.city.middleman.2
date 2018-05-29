@@ -4,12 +4,11 @@ date: 2018-05-28 18:17 UTC
 tags: example
 image: https://drive.google.com/uc?id=1POq96FNkNaQazmILD2zOFkUAToi5xypF
 author: Nick
-published: false
 ---
 
 *"Ive got a good feeling about this."*  - new Han Solo
 
-My primary concern with the Disney run Star Wars is the Marvelization of the Star Wars franchise. This has disturbed me about the recent Star Wars movies. Emphasis on large, undecipherable action scenes,  plots centering around large dubious catastrophic goals that the audience has to simply accept,  incredibly oversimplistic motivations for characters who wield massive power. I know it sells because I think most people like these kinds of fun movies as a break from their lives, but that's not what made the original Star Wars so special.  It was the depth of the universe, the hero's journey, the philosophy of the dark/light balance, the mythos surrounding the characters and world, protection/love of family and tribe(and species). It seems that in Marvel the characters and plot serve the action, while in the original Star Wars movies the action served the characters and plot.
+My primary concern with the Disney run Star Wars franchise is the Blockbuster design of big budget movies. This has disturbed me about the recent Star Wars movies. Emphasis on large, undecipherable action scenes,  plots centering around large dubious catastrophic goals that the audience has to simply accept,  incredibly over simplistic motivations for characters who wield massive power. I know it sells because it's fun, but that's not what made the original Star Wars so special.  It was the depth of the universe, the hero's journey, the philosophy of the dark/light balance, the mythos surrounding the characters and world, protection/love of family and tribe(and species). It seems that with Blockbuster designed movies the characters and plot serve the action, while in the original Star Wars movies the action served the characters and plot.
 
 
 This movie could have gone bad in so many ways.  Formalizing the mythos of Han Solo into hard canon and codifying the imaginations of legions of fans onto the big screen is a very dicey proposition, walking a tightrope over a river of crocodiles, except instead of a crocodiles to worry about, a billion dollar franchise is at stake as well as the respect of a notoriously devoted fan base. Han Solo is as sacred of a character in the Star Wars franchise as any,  and his surrounding mythos is one fans have been idolizing for decades. (*Where did those dice come from?* ) This requires the movie to go almost *perfectly*. Not too heavy handed or too light handed. Therefore, I admire the courage and gusto required to make this movie.  
